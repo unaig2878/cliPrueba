@@ -1,0 +1,3 @@
+operacion1
+operacion2
+operacion3
